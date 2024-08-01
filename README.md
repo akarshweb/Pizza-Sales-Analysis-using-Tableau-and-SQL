@@ -47,7 +47,7 @@ Tableau was used to create various visualizations to explore and validate the an
 
 - **All-Time High and Low Sales (Gantt Chart):** Identifies historical sales peaks and lows.
 
-  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="Best_Worst Sellers Dashboard.png">
+  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="Home Dashboard.png">
 
 ## Conclusion
 
